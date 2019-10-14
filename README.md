@@ -7,6 +7,8 @@ You can create more customized WordList for your **Bruteforce** Attack.
 <br/>
 I call this Program ***Intelligent*** as it will create large Password Files, only if there is Memory space already available to accumulate it.
 
+***Colors.py is added to give and idea fo color code***
+
 ### Code that checks for FreeSpace 
 
 ```python
